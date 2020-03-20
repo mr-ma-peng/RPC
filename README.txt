@@ -15,6 +15,10 @@ com.nuwf.client包下为客户端模块
 
 
 
+
+
+
+
 2，RMI+JDBC 实现
 
 DBmanager.java：jdbc-mysql数据库dao层
