@@ -1,4 +1,4 @@
-1，RPC-java实现
+# 1，RPC-java实现
 
 rpc-server：服务端模块
 com.nuwf.servicecenter包下为服务中心模块，负责服务的注册，开启和关闭
@@ -13,13 +13,7 @@ com.nuwf.client包下为客户端模块
 注：各自运行 src/main/java/com/nuwf/App.java
 
 
-
-
-
-
-
-
-2，RMI+JDBC 实现
+# 2，RMI+JDBC 实现
 
 DBmanager.java：jdbc-mysql数据库dao层
 DBservice.java：服务接口
