@@ -13,7 +13,25 @@ com.nuwf.client包下为客户端模块
 注：各自运行 src/main/java/com/nuwf/App.java
 
 
+<<<<<<< HEAD:README.md
+# cobra 
+
+应用软件：omniORB4.1.0
+mysql 5.7.20
+
+java和c++编程模拟客户端与服务端远程对象调用
+
+
+
+
+
+
+
+
+2，RMI+JDBC 实现
+=======
 # 2，RMI+JDBC 实现
+>>>>>>> edd7821efe9ffb1fdcbb4311a67efb0a4a31f3ba:README.txt
 
 DBmanager.java：jdbc-mysql数据库dao层
 DBservice.java：服务接口
